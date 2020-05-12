@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>CreateNew</name>
+        <query_condition table="x_483351_concur_expense_report">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 18:27:29</sys_created_on>
+        <sys_id>46219fa42f3c98104622ae6df699b6c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateNew</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_data_item_46219fa42f3c98104622ae6df699b6c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 18:27:29</sys_updated_on>
+        <table>x_483351_concur_expense_report</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=46219fa42f3c98104622ae6df699b6c6"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>69a30cc5db8f3340f492c597059619b8</instance_id>
+        <instance_name>dev90243</instance_name>
+        <name>sys_sg_data_item_46219fa42f3c98104622ae6df699b6c6</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description/><group_by/><instance_relative_url_qc/><name>CreateNew</name><query_condition table="x_483351_concur_expense_report">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-12 18:27:29</sys_created_on><sys_id>46219fa42f3c98104622ae6df699b6c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CreateNew</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_data_item_46219fa42f3c98104622ae6df699b6c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-12 18:27:29</sys_updated_on><table>x_483351_concur_expense_report</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=46219fa42f3c98104622ae6df699b6c6"/></record_update>]]></payload>
+        <payload_hash>694967413</payload_hash>
+        <record_name>CreateNew</record_name>
+        <reverted_from/>
+        <source>854c4e142f3098104622ae6df699b6c1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 18:27:29</sys_created_on>
+        <sys_id>1a2197e42f3c98104622ae6df699b677</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1720a2449a30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 18:27:29</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>122197e4113c9810d85a6dbdf3aabc77</update_guid>
+        <update_guid_history>122197e4113c9810d85a6dbdf3aabc77:694967413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-12 18:34:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>32400c7be4634ce49a249906bcb5fb24</sys_id>
+        <sys_metadata>46219fa42f3c98104622ae6df699b6c6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CreateNew</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_46219fa42f3c98104622ae6df699b6c6</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_46219fa42f3c98104622ae6df699b6c6">1a2197e42f3c98104622ae6df699b677</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-12 18:34:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
